@@ -64,3 +64,38 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body {
+ margin-left: 20 px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 65px;
+
+   
+}
+
+.header-up {
+    
+    display: inline-block;
+    padding: 10px;
+}
+
+button {
+    border: 1 solid black;
+    padding: 10px;
+    size: 15px;
+    
+}
+.header-down {
+    display: inline-block;
+    padding: 50px;
+    margin: 30px;
+    width: 45%;
+
+}
+
+.header-img {
+ width: 300px;
+ height: 300px;
+}
